@@ -1,0 +1,10 @@
+For this assignment, I learned how to find and fix bugs in a Python script.
+I fixed mistakes in the code's logic for instance making sure it checked for
+lowercase letters so the filters actually worked. 
+
+I also learned how to add a brand new `--high-only` command so the script
+could read a messy CSV file and save the correct data into a neat JSON file. 
+
+Lastly, getting a "file not found" error taught me how to use the `cd`
+command in the terminal to make sure I am in the exact right folder before
+trying to run my code.
