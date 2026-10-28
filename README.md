@@ -1,17 +1,9 @@
 # Python Scripting Lab
 
-CSV asset inventory filter CLI that exports JSON.
+Code:You scripting lab. This CLI filters a CSV asset inventory by owner, tag, critical-only, or high-only and writes JSON.
 
-## Description
-Code:You scripting lab: filter a CSV asset inventory by owner, tag, critical-only, or high-only flags and write JSON output.
+Python 3 (`csv`, `json`, `argparse`).
 
-## Technologies
-- Python 3 (`csv`, `json`, `argparse`)
-
-## Usage
 ```bash
 python3 asset_lister.py --help
 ```
-
-## Status
-Completed scripting / bug-fix lab.
